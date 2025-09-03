@@ -1,0 +1,5 @@
+going to click on drop down
+drop down found
+drop down value selected
+Inside get all item prices
+selector found

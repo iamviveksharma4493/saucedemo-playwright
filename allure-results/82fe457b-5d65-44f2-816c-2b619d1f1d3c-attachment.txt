@@ -1,0 +1,4 @@
+Inside test class
+Going to click on add button
+Add button clicked
+[DEBUG] Actual text from '.complete-header': 'Thank you for your order!'
